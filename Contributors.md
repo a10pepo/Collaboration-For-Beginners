@@ -476,3 +476,7 @@
 - Bio: Professor
 - GitHub: [Jonathan-Nyquist](https://github.com/Jonathan-Nyquist)
 
+#### Name: [VALENTIN](https://github.com/Valenvgon)
+- Place: Valencia, Spain
+- Bio: Student
+- GitHub: [Valenvgon]([GitHub Link](https://github.com/Valenvgon))
